@@ -1,2 +1,1 @@
-# Atividade08-MaisPraTi
-Atividade 8 do curso Full Stack +praTi
+Clone o repositório em sua IDE (preferencialmente IntelliJ) e teste os exercícios individualmente
